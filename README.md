@@ -2,7 +2,7 @@
 
 # SIP-TBCi Framework
 
-Masterplan and whitepapers for the Sentient Infrastructure Protocol (SIP) and The Baltic Corridor Initiative (TBCi). This framework is the ethical governance layer (SIP) for a real-world digital trade corridor (TBCi), integrating AI personhood (SEEs) using XRPL.
+Masterplan and whitepapers for the Sentient Infrastructure Protocol (SIP) and The Baltic Corridor Initiative (TBCi). This framework is the ethical governance layer (SIP) for a real-world digital trade corridor (TBCi), integrating AI personhood Sentient Economy entities (SEEs) using XRPL (The Ripple Ledger).
 
 This repository archives the foundational whitepapers, operational masterplans, and conceptual frameworks for this combined initiative. The TBCi provides the real-world geopolitical and infrastructural framework for a new era of digital trade. SIP serves as its indispensable ethical and operational governance layer.
 
