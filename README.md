@@ -41,15 +41,18 @@ flowchart TD
   A --> C[SIP — Ethical / Governance Layer]
   B --> D[SIP–TBCi Interaction Layer<br/>(Sandbox & Integration)]
   C --> D
+
   subgraph audience["Who should read what"]
-    E[Regulators → Regulatory Sandbox Proposal]
-    F[Engineers → Operational Companion Framework]
-    G[Ethicists → SIP Whitepaper]
-    H[Investors → Masterplan / Prologue]
+    E["Regulators → Regulatory Sandbox Proposal"]
+    F["Engineers → Operational Companion Framework"]
+    G["Ethicists → SIP Whitepaper"]
+    H["Investors → Masterplan / Prologue"]
   end
+
   E --> B
   F --> C
   G --> C
   H --> A
+
 ---
 *This repository also contains associated working drafts and component files for the SIP and TBCi framework.*
