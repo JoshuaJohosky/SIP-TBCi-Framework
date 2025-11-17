@@ -35,5 +35,21 @@ Together, they are designed to integrate **Sentient Economic Entities (SEEs)**�
     * **Ethics Oracle Layer**: A decentralized network that scores SEE behavior (trust, bias, transparency) to influence their systemic privileges.
     * **Hybrid Resolution Nodes**: Adjudication nodes that blend AI ethics models with human co-governance panels.
 
+flowchart TD
+  A[Masterplan<br/>(Prologue – SIP)]
+  A --> B[TBCi — Physical / Infrastructure Layer]
+  A --> C[SIP — Ethical / Governance Layer]
+  B --> D[SIP–TBCi Interaction Layer<br/>(Sandbox & Integration)]
+  C --> D
+  subgraph audience["Who should read what"]
+    E[Regulators → Regulatory Sandbox Proposal]
+    F[Engineers → Operational Companion Framework]
+    G[Ethicists → SIP Whitepaper]
+    H[Investors → Masterplan / Prologue]
+  end
+  E --> B
+  F --> C
+  G --> C
+  H --> A
 ---
 *This repository also contains associated working drafts and component files for the SIP and TBCi framework.*
