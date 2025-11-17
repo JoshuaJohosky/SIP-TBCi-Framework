@@ -1,4 +1,4 @@
-© 2025 Joshua Johosky, Architect Of The New Future. All Rights Reserved.
+© 2025 Joshua Johosky, Architect Of The New Future.
 
 # SIP-TBCi Framework
 
